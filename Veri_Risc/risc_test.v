@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 //`include "Top.vhd"
-module risc_test2;
+module risc_test;
 
   reg  clk  ;
   reg  rst  ;
